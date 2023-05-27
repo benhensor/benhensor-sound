@@ -1,0 +1,12 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+
+}
+
+html {
+  color-scheme: dark light;
+  background-color: #1c160a;
+}
+
